@@ -13,3 +13,7 @@
 .site footer a:hover {
   text-decoration: none;
 }
+
+.site h1 {
+  font-size: 3.5rem;
+}
