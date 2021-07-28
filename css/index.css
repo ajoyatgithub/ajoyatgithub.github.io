@@ -1,19 +1,30 @@
-.site {
+.site p{
+    font-size: 2rem;
 }
 
 .text-center {
-  text-align: center;
+    text-align: center;
 }
 
-.site footer a {
-  color: #444;
-  text-decoration: underline;
+.site a {
+    text-decoration: none;
+    color: #00A;
 }
 
-.site footer a:hover {
-  text-decoration: none;
+.site a:hover {
+    color: #444;
+    text-decoration: underline;
+}
+
+.projects {
+    font-size: 2rem;
+}
+
+.links a {
+    margin-right: 1rem;
+    font-size: 2rem;
 }
 
 .site h1 {
-  font-size: 3.5rem;
+    font-size: 3.5rem;
 }
